@@ -8,7 +8,7 @@ List<T> rotateRight<T>(List<T> list, int n) {
 
 void main() {
   List<int> numbers = [1, 2, 3, 4, 5];
-  int n = 2;
+  int n = 1;
 
   List<int> rotated = rotateRight(numbers, n);
   print(rotated); // Output: [4, 5, 1, 2, 3]
