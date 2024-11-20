@@ -1,0 +1,44 @@
+Basic List Operations
+
+=>Initialize a List: Create a list of integers with at least 5 elements.
+=>Accessing Elements: Given a list of strings, print the first and last elements.
+=>Updating Elements: Given a list of integers, update the third element to a new value.
+=>Adding Elements: Add an element to the end of a list. What method would you use?
+=>Inserting Elements at Specific Position: Insert an element at the 2nd index of a list.
+=>Removing Elements by Value: Remove the first occurrence of a specified value from a list.
+=>Removing Elements by Index: Remove the element at a specific index in a list.
+=>Clearing a List: How do you clear all elements from a list?
+
+Advanced List Operations
+
+=>Check if List Contains Element: Write a function to check if a list contains a specific value.
+=>Find Index of Element: Find the index of a specific element in a list. What method would you use?
+=>Reverse a List: Write a function to reverse a list.
+=>Sorting a List: Given a list of integers, sort the list in ascending and descending order.
+=>Finding Maximum and Minimum: Write a function that returns the maximum and minimum values from a list of numbers.
+=>List of Lists (2D List): Create a list of lists (2D list) with at least 2 rows and 3 columns, and access the element at a specific row and column.
+
+List Transformations
+
+=>Map Function on List: Given a list of integers, return a new list with each element squared.
+=>Filter a List: Filter a list of numbers to only include values greater than a certain threshold.
+=>Reduce Function on List: Use reduce to sum up all the elements in a list.
+=>Convert List to Set: Write a function that converts a list with duplicate values to a set (removes duplicates).
+=>Concatenate Two Lists: Given two lists, merge them into a single list.
+
+More Complex Scenarios
+
+=>Removing Duplicates: Write a function to remove duplicates from a list.
+=>Flatten a Nested List: Given a list of lists, write a function to flatten it into a single list.
+=>Split List into Chunks: Write a function that splits a list into chunks of a specified size.
+=>Rotate a List: Given a list and a number n, rotate the list to the right by n positions.
+=>Find Pairs with Given Sum: Given a list of integers and a target sum, find all pairs in the list that add up to the target sum.
+=>Sublist Extraction: Extract a sublist from a list, given a starting and ending index.
+
+List Transformations with Other Data Types
+
+=>Convert List of Integers to List of Strings: Given a list of integers, return a list where each integer is converted to a string.
+=>Convert List to JSON Format: Given a list of key-value pairs, convert it into a JSON string.
+=>Filter List of Objects: Given a list of objects (e.g., a class Person with name and age), filter out objects based on certain criteria, like age > 18.
+=>Sorting List of Maps: Given a list of maps (e.g., {'name': 'Alice', 'age': 25}), sort the list based on the age attribute.
+=>Convert List of Maps to a Single Map: Given a list of maps with common keys, combine them into a single map (e.g., summing values for each key).
